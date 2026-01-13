@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-rehmanweb&label=Profile%20views&color=0e75b6&style=flat" alt="ar-rehmanweb" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-rehmanweb&label=Profile%20views&color=0e75b6&style=flat" alt="ar-rehmanweb" /> </p> -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hasancoder66&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-rehmanweb" alt="ar-rehmanweb" /></a> </p>
 
